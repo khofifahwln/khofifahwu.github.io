@@ -1,0 +1,55 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bannerhomepage{
+    background: url(img/gambar2.jpg) no-repeat center center, 
+    linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7));
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+    
+}
+
+a.social{
+    display:inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #8d8741;
+    line-height: 40px;
+}
+
+.bg-inverse{
+    background-color: #5eabbb;
+}
+
+.contact{
+    background: url(img/gambar3.jpg) no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
+}
+
+.btn{
+    background-color: #8d8741;
+    color: #fff;
+    cursor: pointer;
+}
+
+.box img{
+    width: 80%;
+    border-radius: 5px;
+}
+
+.blog{
+    background-color: #fbeec1;
+}
+
+.description{
+    line-height: 18px;
+    overflow: hidden;
+}
